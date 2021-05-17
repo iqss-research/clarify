@@ -1,0 +1,40 @@
+d Clarify. Software to Interpret and Present Statistical Results. Ver 2.0
+
+d Michael Tomz, Stanford University
+d Jason Wittenberg, University of Wisconsin, Madison
+d Gary King, Harvard University
+d
+d Clarify is a program that uses Monte Carlo simulation to convert the
+d raw output of statistical procedures into results that are of direct
+d interest to researchers.  The program, designed for use with the Stata
+d statistics package, can help researchers in three ways.  
+d
+d (1) It can extract new quantities of interest from standard statistical 
+d models, thereby enriching the substance of social science research.  
+d (2) It can assess the uncertainty surrounding any quantity of interest, 
+d so it should improve the candor and realism of statistical discourse.  
+d (3) It can convert raw parameter estimates into results that anyone, 
+d regardless of statistical training, can understand. Thus, it should be 
+d useful to those who want to convey their results to a broader audience.
+d
+d Note: Site administrators installing Clarify for general use should
+d       type ^net set ado SITE^ before the ^net install^ command.  
+d
+d Support: email tomz@@stanford.edu 
+d                witty@@polisci.wisc.edu
+d                king@@harvard.edu
+d
+d 
+f estsimp.ado
+f estsimp.hlp
+f setx.ado
+f setx.hlp
+f simqi.ado
+f simqi.hlp
+f sumqi.ado
+f sumqi.hlp
+f tlogit.ado
+f tlogit.hlp
+f clarify.pdf
+
+* note: add checksum when final versions are ready for release.

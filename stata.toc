@@ -1,0 +1,10 @@
+d Clarify: Software to Interpret and Present Statistical Results
+d
+d    Michael Tomz         Jason Wittenberg          Gary King
+d   Stanford Univ.   Univ. of Wisconsin, Madison   Harvard Univ.
+d
+d
+d To install Clarify, type ^net install clarify^
+d To download documentation to your working directory, type ^net get clarify^
+d For a brief description of Clarify, type ^net describe clarify^
+p clarify Software to Interpret and Present Statistical Results
